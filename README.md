@@ -4,6 +4,12 @@ This is a theme for sublime based on Tommorow Night Bright, with some color infl
 
 Hot Pink everywhere FTW!
 
-* Install in  the Sublime Text 2 Packages/User folder
+To install
+----------
+* Install the `Tomorrow-Night-is-Magic.tmTheme` file in the `Sublime Text 2 Packages/User` folder
 
-* Select theme with Preferences -> Color Scheme -> User
+* Select theme with `Preferences -> Color Scheme -> User`
+
+Base16
+-------
+I also tried it with the base16-builder library (https://github.com/chriskempson/base16-builder), but that version still needs a lot of work.
