@@ -6,7 +6,7 @@ Hot Pink everywhere FTW!
 
 To install
 ----------
-* Install the `Tomorrow-Night-is-Magic.tmTheme` file in the `Sublime Text 2 Packages/User` folder
+* Install the `Tomorrow-Night-is-Magic.tmTheme` file in the `Sublime Text 2 Packages/User` folder (on mac, that's `~/Library/Application Support/Sublime Text 2/Packages/User`)
 
 * Select theme with `Preferences -> Color Scheme -> User`
 
